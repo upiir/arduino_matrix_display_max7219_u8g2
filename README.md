@@ -5,7 +5,8 @@ Arduino UNO together with Matrix Display MAX7219 using the u8g2 library to creat
 
 **WOKWI PROJECT: https://wokwi.com/projects/359980815913263105**
 
-![THUMB_arduino_matrix_display2](https://user-images.githubusercontent.com/117754156/227168707-fdf8bac6-99a0-4da1-a262-c4594b052b1e.jpg)
+![THUMB_arduino_matrix_display4](https://user-images.githubusercontent.com/117754156/227214008-a22174d8-1abb-43f4-aaea-8157869de9df.jpg)
+
 
 Links from the video:
 - LED Matrix display: https://s.click.aliexpress.com/e/_DlnFAYz
