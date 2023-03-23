@@ -3,6 +3,8 @@ Arduino UNO together with Matrix Display MAX7219 using the u8g2 library to creat
 
 **YOUTUBE VIDEO: https://youtu.be/jlhcDzS17vU**
 
+**WOKWI PROJECT: https://wokwi.com/projects/359980815913263105**
+
 ![THUMB_arduino_matrix_display2](https://user-images.githubusercontent.com/117754156/227168707-fdf8bac6-99a0-4da1-a262-c4594b052b1e.jpg)
 
 Links from the video:
